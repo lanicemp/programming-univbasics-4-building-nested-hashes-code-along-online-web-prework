@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-epic_tragedy[:montague][:hero][:status]2
+epic_tragedy[:montague][:hero][:status]
   #code your solution here:
 
   
